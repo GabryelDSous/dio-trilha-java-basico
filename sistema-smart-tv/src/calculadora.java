@@ -10,7 +10,7 @@
  */
 
 public class calculadora {
-/*
+/**
     * Este método é utilizado para somar dois números inteiros
     * @param numeroUm este é o primeiro parâmetro do método
     * @param numeroDois este é o segundo parâmetro do método
